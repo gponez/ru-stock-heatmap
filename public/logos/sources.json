@@ -1,0 +1,448 @@
+{
+  "source": "T-Bank Investments stock pages and their referenced company-logo CDN assets",
+  "notice": "Company names and logos are trademarks of their respective owners. Assets are included for identification; no affiliation or ownership is implied.",
+  "logos": [
+    {
+      "ticker": "SBER",
+      "page_url": "https://www.tbank.ru/invest/stocks/SBER/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/SBER/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/sber3x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/sber3x640.png",
+      "alt": "Логотип акции Сбербанк, SBER",
+      "retrieved_at": "2026-10-29T11:45:54.366268+00:00",
+      "file": "SBER.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "ec2e383378758014b1261be70bbb47f1ff068d9c038ff104d7c48ea1b62bbb15",
+      "sha256": "ec2e383378758014b1261be70bbb47f1ff068d9c038ff104d7c48ea1b62bbb15"
+    },
+    {
+      "ticker": "SBERP",
+      "page_url": "https://www.tbank.ru/invest/stocks/SBERP/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/SBERP/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/sber3x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/sber3x640.png",
+      "alt": "Логотип акции Сбербанк ап, SBERP",
+      "retrieved_at": "2026-10-29T11:45:54.365598+00:00",
+      "file": "SBERP.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "ec2e383378758014b1261be70bbb47f1ff068d9c038ff104d7c48ea1b62bbb15",
+      "sha256": "ec2e383378758014b1261be70bbb47f1ff068d9c038ff104d7c48ea1b62bbb15"
+    },
+    {
+      "ticker": "GAZP",
+      "page_url": "https://www.tbank.ru/invest/stocks/GAZP/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/GAZP/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0007661625x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0007661625x640.png",
+      "alt": "Логотип акции Газпром, GAZP",
+      "retrieved_at": "2026-10-29T11:47:08.549429+00:00",
+      "file": "GAZP.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "cd292b4272bf0decb68046d94f489e8dc904fff101d3da261cd99de1508fc3f9",
+      "sha256": "cd292b4272bf0decb68046d94f489e8dc904fff101d3da261cd99de1508fc3f9"
+    },
+    {
+      "ticker": "LKOH",
+      "page_url": "https://www.tbank.ru/invest/stocks/LKOH/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/LKOH/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0009024277x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0009024277x640.png",
+      "alt": "Логотип акции ЛУКОЙЛ, LKOH",
+      "retrieved_at": "2026-10-29T11:45:54.361830+00:00",
+      "file": "LKOH.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "3fd0b02912ca7669ba820fd57675dde702f9b1574b8a0d34ca1058b2772a0cea",
+      "sha256": "3fd0b02912ca7669ba820fd57675dde702f9b1574b8a0d34ca1058b2772a0cea"
+    },
+    {
+      "ticker": "ROSN",
+      "page_url": "https://www.tbank.ru/invest/stocks/ROSN/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/ROSN/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU000A0J2Q06x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU000A0J2Q06x640.png",
+      "alt": "Логотип акции Роснефть, ROSN",
+      "retrieved_at": "2026-10-29T11:45:54.363881+00:00",
+      "file": "ROSN.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "0a6d29de7638ff2388ab870e25259d90e6258df72a8d786d50caf25e4166799d",
+      "sha256": "0a6d29de7638ff2388ab870e25259d90e6258df72a8d786d50caf25e4166799d"
+    },
+    {
+      "ticker": "NVTK",
+      "page_url": "https://www.tbank.ru/invest/stocks/NVTK/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/NVTK/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/novatecx640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/novatecx640.png",
+      "alt": "Логотип акции НОВАТЭК, NVTK",
+      "retrieved_at": "2026-10-29T11:45:57.856230+00:00",
+      "file": "NVTK.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "0d86dd60a878a95084dfa74eacff588cd1fbf2c607c721e02768f422e080f05e",
+      "sha256": "0d86dd60a878a95084dfa74eacff588cd1fbf2c607c721e02768f422e080f05e"
+    },
+    {
+      "ticker": "TATN",
+      "page_url": "https://www.tbank.ru/invest/stocks/TATN/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/TATN/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0006944147x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0006944147x640.png",
+      "alt": "Логотип акции Татнефть, TATN",
+      "retrieved_at": "2026-10-29T11:47:08.543691+00:00",
+      "file": "TATN.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "43d4b7350e1c0a03e923fa550174d0d214b13c5912ad73642256b9fcbad2e176",
+      "sha256": "43d4b7350e1c0a03e923fa550174d0d214b13c5912ad73642256b9fcbad2e176"
+    },
+    {
+      "ticker": "TATNP",
+      "page_url": "https://www.tbank.ru/invest/stocks/TATNP/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/TATNP/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0006944147x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0006944147x640.png",
+      "alt": "Логотип акции Татнефть - привилегированные акции, TATNP",
+      "retrieved_at": "2026-10-29T11:47:12.118215+00:00",
+      "file": "TATNP.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "43d4b7350e1c0a03e923fa550174d0d214b13c5912ad73642256b9fcbad2e176",
+      "sha256": "43d4b7350e1c0a03e923fa550174d0d214b13c5912ad73642256b9fcbad2e176"
+    },
+    {
+      "ticker": "SNGS",
+      "page_url": "https://www.tbank.ru/invest/stocks/SNGS/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/SNGS/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0008926258x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0008926258x640.png",
+      "alt": "Логотип акции Сургутнефтегаз, SNGS",
+      "retrieved_at": "2026-10-29T11:45:57.805470+00:00",
+      "file": "SNGS.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "6839259a07b3ed68de101cc22d1708229f07c016ec8ab5d49d64411b130e1973",
+      "sha256": "6839259a07b3ed68de101cc22d1708229f07c016ec8ab5d49d64411b130e1973"
+    },
+    {
+      "ticker": "SNGSP",
+      "page_url": "https://www.tbank.ru/invest/stocks/SNGSP/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/SNGSP/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0008926258x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0008926258x640.png",
+      "alt": "Логотип акции Сургутнефтегаз - привилегированные акции, SNGSP",
+      "retrieved_at": "2026-10-29T11:45:57.878117+00:00",
+      "file": "SNGSP.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "6839259a07b3ed68de101cc22d1708229f07c016ec8ab5d49d64411b130e1973",
+      "sha256": "6839259a07b3ed68de101cc22d1708229f07c016ec8ab5d49d64411b130e1973"
+    },
+    {
+      "ticker": "GMKN",
+      "page_url": "https://www.tbank.ru/invest/stocks/GMKN/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/GMKN/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/nornikelx640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/nornikelx640.png",
+      "alt": "Логотип акции Норильский никель, GMKN",
+      "retrieved_at": "2026-10-29T11:46:01.197369+00:00",
+      "file": "GMKN.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "4be2705119055ce600fd7f2741c2ba716c4e21348d26c8bc54498effce4a3978",
+      "sha256": "4be2705119055ce600fd7f2741c2ba716c4e21348d26c8bc54498effce4a3978"
+    },
+    {
+      "ticker": "PLZL",
+      "page_url": "https://www.tbank.ru/invest/stocks/PLZL/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/PLZL/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/PolyusGoldx640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/PolyusGoldx640.png",
+      "alt": "Логотип акции Полюс, PLZL",
+      "retrieved_at": "2026-10-29T11:46:02.154799+00:00",
+      "file": "PLZL.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "5c1369c56a939743bbba5175597951d6b91afb15cb51ef3949bba2790a9245aa",
+      "sha256": "5c1369c56a939743bbba5175597951d6b91afb15cb51ef3949bba2790a9245aa"
+    },
+    {
+      "ticker": "NLMK",
+      "page_url": "https://www.tbank.ru/invest/stocks/NLMK/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/NLMK/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/NLMKx640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/NLMKx640.png",
+      "alt": "Логотип акции НЛМК, NLMK",
+      "retrieved_at": "2026-10-29T11:46:02.361224+00:00",
+      "file": "NLMK.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "5a5201049153cfd38e7b59924875c3b11a15874df5f021ddb98205fe52f0bf32",
+      "sha256": "5a5201049153cfd38e7b59924875c3b11a15874df5f021ddb98205fe52f0bf32"
+    },
+    {
+      "ticker": "CHMF",
+      "page_url": "https://www.tbank.ru/invest/stocks/CHMF/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/CHMF/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0009046510x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0009046510x640.png",
+      "alt": "Логотип акции Северсталь, CHMF",
+      "retrieved_at": "2026-10-29T11:46:01.299183+00:00",
+      "file": "CHMF.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "3407c4a081c2b205e3cc012682edb554f4cfe0cf2a771e29fb9547604dc7e0d6",
+      "sha256": "3407c4a081c2b205e3cc012682edb554f4cfe0cf2a771e29fb9547604dc7e0d6"
+    },
+    {
+      "ticker": "MAGN",
+      "page_url": "https://www.tbank.ru/invest/stocks/MAGN/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/MAGN/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0009084396x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0009084396x640.png",
+      "alt": "Логотип акции ММК, MAGN",
+      "retrieved_at": "2026-10-29T11:47:12.124055+00:00",
+      "file": "MAGN.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "161f1b078cc4d99fc1d103743110c1303983ec078f5ea7a2d1f9edf92d8f1407",
+      "sha256": "161f1b078cc4d99fc1d103743110c1303983ec078f5ea7a2d1f9edf92d8f1407"
+    },
+    {
+      "ticker": "ALRS",
+      "page_url": "https://www.tbank.ru/invest/stocks/ALRS/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/ALRS/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0007252813x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0007252813x640.png",
+      "alt": "Логотип акции АЛРОСА, ALRS",
+      "retrieved_at": "2026-10-29T11:46:03.411767+00:00",
+      "file": "ALRS.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "5962ded90ebdac2f8f026cbafe835a61f21b745b18500936612f27922d925d62",
+      "sha256": "5962ded90ebdac2f8f026cbafe835a61f21b745b18500936612f27922d925d62"
+    },
+    {
+      "ticker": "YDEX",
+      "page_url": "https://www.tbank.ru/invest/stocks/YDEX/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/YDEX/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/yandexnewx640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/yandexnewx640.png",
+      "alt": "Логотип акции Яндекс, YDEX",
+      "retrieved_at": "2026-10-29T11:46:05.804926+00:00",
+      "file": "YDEX.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "28fad372b87a33aa7f8007fcc3ee65db65d7b85f13ed2bbbc88efebed8b5e9f3",
+      "sha256": "28fad372b87a33aa7f8007fcc3ee65db65d7b85f13ed2bbbc88efebed8b5e9f3"
+    },
+    {
+      "ticker": "T",
+      "page_url": "https://www.tbank.ru/invest/stocks/T/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/T/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/tcs2x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/tcs2x640.png",
+      "alt": "Логотип акции Т-Технологии, T",
+      "retrieved_at": "2026-10-29T11:47:16.148536+00:00",
+      "file": "T.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "b1ddd925362d15119570f6a8f9ac5e03f728baf9c9edb528f41a912177c759d9",
+      "sha256": "b1ddd925362d15119570f6a8f9ac5e03f728baf9c9edb528f41a912177c759d9"
+    },
+    {
+      "ticker": "OZON",
+      "page_url": "https://www.tbank.ru/invest/stocks/OZON/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/OZON/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/ISSUANCEOZONx640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/ISSUANCEOZONx640.png",
+      "alt": "Логотип акции Озон, OZON",
+      "retrieved_at": "2026-10-29T11:46:05.425691+00:00",
+      "file": "OZON.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "37a6f80bdc4a18b403965bed1eca62e82a46b60d8837e084f28f5830d9a00c53",
+      "sha256": "37a6f80bdc4a18b403965bed1eca62e82a46b60d8837e084f28f5830d9a00c53"
+    },
+    {
+      "ticker": "MTSS",
+      "page_url": "https://www.tbank.ru/invest/stocks/MTSS/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/MTSS/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/mtsnewx640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/mtsnewx640.png",
+      "alt": "Логотип акции МТС, MTSS",
+      "retrieved_at": "2026-10-29T11:46:06.632388+00:00",
+      "file": "MTSS.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "c034eeebffcfda32fa82bcce44d03198480db003f16bf5e6c5667d9aea833753",
+      "sha256": "c034eeebffcfda32fa82bcce44d03198480db003f16bf5e6c5667d9aea833753"
+    },
+    {
+      "ticker": "RTKM",
+      "page_url": "https://www.tbank.ru/invest/stocks/RTKM/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/RTKM/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0008943394x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0008943394x640.png",
+      "alt": "Логотип акции Ростелеком, RTKM",
+      "retrieved_at": "2026-10-29T11:46:07.095602+00:00",
+      "file": "RTKM.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "1e33084559ab8de9c0a25a4f230e734e0dbf83caaa4a8f7032b00b22fbe64a56",
+      "sha256": "1e33084559ab8de9c0a25a4f230e734e0dbf83caaa4a8f7032b00b22fbe64a56"
+    },
+    {
+      "ticker": "MGNT",
+      "page_url": "https://www.tbank.ru/invest/stocks/MGNT/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/MGNT/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU000A0JKQU8x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU000A0JKQU8x640.png",
+      "alt": "Логотип акции Магнит, MGNT",
+      "retrieved_at": "2026-10-29T11:46:07.873164+00:00",
+      "file": "MGNT.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "2f9a7a75898b11ef0aade80e2b257ba63fa6eab6d7226e9af9c3a7f340a7108e",
+      "sha256": "2f9a7a75898b11ef0aade80e2b257ba63fa6eab6d7226e9af9c3a7f340a7108e"
+    },
+    {
+      "ticker": "X5",
+      "page_url": "https://www.tbank.ru/invest/stocks/X5/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/X5/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/US98387E205x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/US98387E205x640.png",
+      "alt": "Логотип акции Корпоративный Центр Икс 5, X5",
+      "retrieved_at": "2026-10-29T11:46:08.708112+00:00",
+      "file": "X5.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "dfb5d5a017a14d3c57fb85b57d323a2369f58be7320874470bee56d9b8396508",
+      "sha256": "dfb5d5a017a14d3c57fb85b57d323a2369f58be7320874470bee56d9b8396508"
+    },
+    {
+      "ticker": "PHOR",
+      "page_url": "https://www.tbank.ru/invest/stocks/PHOR/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/PHOR/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU000A0JRKT8x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU000A0JRKT8x640.png",
+      "alt": "Логотип акции ФосАгро, PHOR",
+      "retrieved_at": "2026-10-29T11:47:16.102689+00:00",
+      "file": "PHOR.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "abdcfbec2b68b161b9b685480d5b44af84e83b456d354e4226d452c3d0bf5c39",
+      "sha256": "abdcfbec2b68b161b9b685480d5b44af84e83b456d354e4226d452c3d0bf5c39"
+    },
+    {
+      "ticker": "AFLT",
+      "page_url": "https://www.tbank.ru/invest/stocks/AFLT/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/AFLT/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0009062285x640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/RU0009062285x640.png",
+      "alt": "Логотип акции Аэрофлот, AFLT",
+      "retrieved_at": "2026-10-29T11:46:09.715533+00:00",
+      "file": "AFLT.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "5fa192794e6159f03080d3950f1af94a8951fffeda6058cc814a174f4202db12",
+      "sha256": "5fa192794e6159f03080d3950f1af94a8951fffeda6058cc814a174f4202db12"
+    },
+    {
+      "ticker": "MOEX",
+      "page_url": "https://www.tbank.ru/invest/stocks/MOEX/",
+      "resolved_page_url": "https://www.tbank.ru/invest/stocks/MOEX/",
+      "asset_url": "https://invest-brands.cdn-tinkoff.ru/MOEXx640.png",
+      "resolved_asset_url": "https://invest-brands.cdn-tinkoff.ru/MOEXx640.png",
+      "alt": "Логотип акции Московская Биржа, MOEX",
+      "retrieved_at": "2026-10-29T11:47:19.461947+00:00",
+      "file": "MOEX.png",
+      "dimensions": [
+        640,
+        640
+      ],
+      "source_format": "PNG",
+      "source_sha256": "8a658617080c4559b8cb20eb7c48a393b0088990aefa251f669190f1293b1065",
+      "sha256": "8a658617080c4559b8cb20eb7c48a393b0088990aefa251f669190f1293b1065"
+    }
+  ]
+}

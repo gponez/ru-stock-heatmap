@@ -1,0 +1,187 @@
+{
+  "fetchedAt": "2026-10-29T16:01:17.425895+00:00",
+  "references": [
+    {
+      "ticker": "SBER",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 291.2,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/SBER.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "SBERP",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 291.1,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/SBERP.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "GAZP",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 110.28,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/GAZP.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "LKOH",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 6062.5,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/LKOH.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "ROSN",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 382.35,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/ROSN.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "NVTK",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 1140.0,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/NVTK.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "TATN",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 619.4,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/TATN.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "TATNP",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 600.3,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/TATNP.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "SNGS",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 16.84,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/SNGS.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "SNGSP",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 40.545,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/SNGSP.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "GMKN",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 113.76,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/GMKN.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "PLZL",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 1099.0,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/PLZL.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "NLMK",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 74.48,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/NLMK.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "CHMF",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 702.2,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/CHMF.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "MAGN",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 23.0,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/MAGN.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "ALRS",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 20.69,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/ALRS.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "YDEX",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 3395.5,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/YDEX.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "T",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 268.88,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/T.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "OZON",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 3485.0,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/OZON.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "MTSS",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 174.55,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/MTSS.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "RTKM",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 42.33,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/RTKM.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "MGNT",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 1718.0,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/MGNT.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "X5",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 2208.0,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/X5.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "PHOR",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 5662.0,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/PHOR.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "AFLT",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 35.35,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/AFLT.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    },
+    {
+      "ticker": "MOEX",
+      "cutoffDate": "2026-10-22",
+      "date": "2026-10-22",
+      "close": 154.09,
+      "source": "https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/MOEX.json?from=2026-09-22&till=2026-10-22&iss.meta=off&iss.only=history&history.columns=TRADEDATE,CLOSE"
+    }
+  ]
+}
